@@ -5,7 +5,7 @@ This repo attempts to drive you through the fundamentals and into some advanced 
 
 This is, of course, a continuous work in progress; feel free to propose changes and spread the word.
 
-Get started in the [0-docker-basics](https://github.com/vfa-cancc/docker-workshop/tree/master/1-running-containers) section.
+Get started in the [0-docker-basics](https://github.com/vfa-cancc/docker-workshop/tree/master/0-docker-basics) section.
 
 🐳
 

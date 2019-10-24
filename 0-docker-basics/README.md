@@ -105,4 +105,4 @@ Xóa images
 docker rmi <image-id/image-name>
 ```
 
-Tuyệt vời, hết phần basic rồi. Hãy chyển sang [phần kế tiếp](https://github.com/vfa-cancc/docker-workshop/tree/master/1-running-containers).
+Tuyệt vời, hết phần basic rồi. Hãy chyển sang [phần kế tiếp](https://github.com/vfa-cancc/docker-workshop/tree/master/1-building-images).
