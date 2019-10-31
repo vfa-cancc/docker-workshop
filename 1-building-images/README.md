@@ -136,3 +136,15 @@ VOLUME /var/www/html
 
 CMD apachectl -D FOREGROUND
 ```
+
+Build:
+
+```bash
+docker build . -t ubuntu-php-apache:1.0
+```
+
+Run container:
+
+```bash
+docker run -d -p 8080:80 -v $(pwd)/www:/var/www/html --name web001 ubuntu-php-apache:1.0
+```
